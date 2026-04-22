@@ -1,0 +1,184 @@
+[
+    {
+        "nome": "Ana Silva",
+        
+        "idade": 28,
+        
+        "altura": 1.65,
+        
+        "peso": 62
+    },
+    {
+        "nome": "Bruno Oliveira",
+        
+        "idade": 34,
+        
+        "altura": 1.80,
+        
+        "peso": 88
+    },
+    {
+        "nome": "Carla Souza",
+        
+        "idade": 42,
+        
+        "altura": 1.58,
+        
+        "peso": 54
+    },
+    {
+        "nome": "Diego Santos",
+        
+        "idade": 23,
+        
+        "altura": 1.75,
+        
+        "peso": 70
+    },
+    {
+        "nome": "Elena Costa",
+        
+        "idade": 55,
+        
+        "altura": 1.62,
+        
+        "peso": 78
+    },
+    {
+        "nome": "Felipe Rocha",
+        
+        "idade": 31,
+        
+        "altura": 1.88,
+        
+        "peso": 95
+    },
+    {
+        "nome": "Giovanna Lima",
+        
+        "idade": 27,
+        
+        "altura": 1.70,
+        
+        "peso": 60
+    },
+    {
+        "nome": "Hugo Mendes",
+        
+        "idade": 45,
+        
+        "altura": 1.72,
+        
+        "peso": 82
+    },
+    {
+        "nome": "Irene Alves",
+        
+        "idade": 38,
+        
+        "altura": 1.60,
+        
+        "peso": 68
+    },
+    {
+        "nome": "João Pereira",
+        
+        "idade": 50,
+        
+        "altura": 1.82,
+        
+        "peso": 90
+    },
+    {
+        "nome": "Karen Martins",
+        
+        "idade": 21,
+        
+        "altura": 1.67,
+        
+        "peso": 52
+    },
+    {
+        "nome": "Leonardo Ferraz",
+        
+        "idade": 29,
+        
+        "altura": 1.78,
+        
+        "peso": 105
+    },
+    {
+        "nome": "Mariana Gomes",
+        
+        "idade": 33,
+        
+        "altura": 1.55,
+        
+        "peso": 48
+    },
+    {
+        "nome": "Nilson Vaz",
+        
+        "idade": 60,
+        
+        "altura": 1.68,
+        
+        "peso": 74
+    },
+    {
+        "nome": "Olívia Duarte",
+        
+        "idade": 25,
+        
+        "altura": 1.73,
+        
+        "peso": 65
+    },
+    {
+        "nome": "Paulo Ramos",
+        
+        "idade": 40,
+        
+        "altura": 1.85,
+        
+        "peso": 110
+    },
+    {
+        "nome": "Quiteria Lins",
+        
+        "idade": 48,
+        
+        "altura": 1.59,
+        
+        "peso": 63
+    },
+    {
+        "nome": "Renato Jorge",
+        
+        "idade": 36,
+        
+        "altura": 1.77,
+        
+        "peso": 79
+    },
+    {
+        "nome": "Sabrina Antunes",
+        
+        "idade": 22,
+        
+        "altura": 1.64,
+        
+        "peso": 57
+    }
+   ,   
+
+    {
+        "nome": "Thiago Nunes",
+        
+        "idade": 29,
+        
+        "altura": 1.81,
+        
+        "peso": 84
+    }
+]
